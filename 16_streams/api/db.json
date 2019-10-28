@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "Title": "My Stream",
+      "Description": "This is my stream",
+      "id": 1
+    },
+    {
+      "Title": "My New ",
+      "Description": "TSH",
+      "id": 2
+    },
+    {
+      "Title": "new",
+      "Description": "newSedc",
+      "id": 3
+    },
+    {
+      "Title": "asdf",
+      "Description": "sadf",
+      "id": 4
+    },
+    {
+      "Title": "Stram with usr",
+      "Description": "Was made by me",
+      "userId": "105991526101585050980",
+      "id": 5
+    }
+  ]
+}
