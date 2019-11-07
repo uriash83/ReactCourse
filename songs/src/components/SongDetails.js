@@ -1,7 +1,7 @@
 import React from 'react'
 import { connect } from 'react-redux'
 
-const SongDetail = ({song}) => {
+const SongDetail = ({song}) => { //state.song
     if(!song){
         return <div>Select a song</div>
     }
